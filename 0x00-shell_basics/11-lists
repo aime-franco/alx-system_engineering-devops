@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a
+ls -al /alx-sysem_enginering-deeeops/0x00-shell_basics
